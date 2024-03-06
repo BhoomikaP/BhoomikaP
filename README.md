@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhoomika Panduranga</h1>
+
+<h1 align="center">Hello 👋, I'm Bhoomika Panduranga</h1>
 <h3 align="center">Software Engineer based in United States</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"/>
 - 💬 Ask me about **Java | Python | Angular | ML | MEAN**
